@@ -1,0 +1,22 @@
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\bin\Debug\Splash Screen.exe.config
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\bin\Debug\Splash Screen.exe
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\bin\Debug\Splash Screen.pdb
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.AssemblyReference.cache
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.SplashScreen.resources
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.GenerateResource.cache
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.CoreCompileInputs.cache
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.exe
+D:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.pdb
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\bin\Debug\Splash Screen.exe.config
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\bin\Debug\Splash Screen.exe
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\bin\Debug\Splash Screen.pdb
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.AssemblyReference.cache
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.SuggestedBindingRedirects.cache
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.SplashScreen.resources
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.GenerateResource.cache
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.CoreCompileInputs.cache
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.exe
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash Screen.pdb
+E:\1269240\ADO.NET\Practice\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.AfterSplash.resources
