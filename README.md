@@ -1,2 +1,2 @@
 # C# Splash Screen
-This is a Windows Form Splash Screen example
+This is a example Windows Form Splash Screen
